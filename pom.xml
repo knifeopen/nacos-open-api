@@ -12,13 +12,13 @@
 
     <groupId>com.suchtool</groupId>
     <artifactId>nacos-open-api-spring-boot-starter</artifactId>
-    <version>1.2.3</version>
+    <version>1.2.4</version>
 
     <packaging>jar</packaging>
     <name>nacos-open-api-spring-boot-starter</name>
     <description>nice distribution lock for SpringBoot project</description>
 
-    <url>https://github.com/knife-blade/nacos-open-api</url>
+    <url>https://github.com/knifeopen/nacos-open-api</url>
 
     <dependencyManagement>
         <dependencies>
@@ -201,15 +201,15 @@
         </license>
     </licenses>
     <scm>
-        <url>https://github.com/knife-blade/nacos-open-api</url>
-        <connection>https://github.com/knife-blade/nacos-open-api.git</connection>
+        <url>https://github.com/knifeopen/nacos-open-api</url>
+        <connection>https://github.com/knifeopen/nacos-open-api.git</connection>
     </scm>
     <developers>
         <developer>
             <id>knifeout</id>
             <name>knifeout</name>
             <email>knife_out@163.com</email>
-            <url>https://github.com/knife-blade</url>
+            <url>https://github.com/knifeopen</url>
         </developer>
     </developers>
 
